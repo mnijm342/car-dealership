@@ -1,0 +1,98 @@
+[
+  {
+    "year": 2017,
+    "brand": "Toyota",
+    "price": "20,000$",
+    "condition": "Pre-Owned",
+    "model": "Prius",
+    "imageurl": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/15q2/657948/2015-toyota-prius-review-car-and-driver-photo-660322-s-original.jpg"
+  },
+  {
+    "year": 2011,
+    "brand": "Honda",
+    "price": "5,000$",
+    "condition": "Pre-Owned",
+    "model": "Civic",
+    "imageurl": "https://wieck-honda-production.s3.amazonaws.com/photos/d25c13be415ef70679b37b9935f4cac25a2d77ee/preview-928x522.jpg"
+  },
+  {
+    "year": 2016,
+    "brand": "Chevrolet",
+    "price": "25,000$",
+    "condition": "New",
+    "model": "Suburban",
+    "imageurl": "https://hips.hearstapps.com/autoweek/assets/s3fs-public/140619912.jpg"
+  },
+  {
+    "year": 2007,
+    "brand": "Chevrolet",
+    "price": "3,000$",
+    "condition": "Pre-Owned",
+    "model": "Caprice",
+    "imageurl": "https://www.cnet.com/a/img/resize/2163a620b8ef5a21568ad556415ea2f654cb804d/hub/2009/10/06/60ab67fe-cc2e-11e2-9a4a-0291187b029a/chevy-caprice-cop-car_1.jpg?auto=webp&width=1200"
+  },
+  {
+    "year": 2018,
+    "brand": "Toyota",
+    "price": "20,000$",
+    "condition": "New",
+    "model": "RAV4",
+    "imageurl": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/04/CarShoot005.jpg"
+  },
+  {
+    "year": 2012,
+    "brand": "Honda",
+    "price": "20,000$",
+    "condition": "Pre-Owned",
+    "model": "Accord",
+    "imageurl": "https://www.edmunds.com/assets/m/honda/accord/2012/oem/2012_honda_accord_coupe_ex-l-v-6_fq_oem_1_600.jpg"
+  },
+  {
+    "year": 2017,
+    "brand": "BMW",
+    "price": "75,000$",
+    "condition": "New",
+    "model": "i8",
+    "imageurl": "https://mdtowing.com/img/exotic-car-towing-service-l.jpg"
+  },
+  {
+    "year": 2015,
+    "brand": "Hummer",
+    "price": "150,000$",
+    "condition": "New",
+    "model": "H2 Stretch",
+    "imageurl": "https://www.fivestarlimonv.com/wp-content/uploads/Hummer-Limo.jpg"
+  },
+  {
+    "year": 1985,
+    "brand": "DeLorean",
+    "price": "70,000$",
+    "condition": "Used and New",
+    "model": "DMC-12",
+    "imageurl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DeLorean_Replica_Kovacs_Time_Machine.png"
+  },
+  {
+    "year": 2008,
+    "brand": "Batmobile",
+    "price": "400,000$",
+    "condition": "New",
+    "model": "Model 3",
+    "imageurl": "https://www.carscoops.com/wp-content/uploads/2022/02/The-Electric-Batmobile-main-1024x555.jpg"
+  },
+  {
+    "year": 2015,
+    "brand": "Batmobile",
+    "price": "10,000,000$",
+    "condition": "New",
+    "model": "Segway 2L",
+    "imageurl": "https://nypost.com/wp-content/uploads/sites/2/2015/04/1202635_-_paul_blart_2-e1429240854970.jpg?quality=75&strip=all&w=1200"
+  },
+  {
+    "year": 1994,
+    "brand": "Shaggin",
+    "price": "800,000$",
+    "condition": "Used",
+    "model": "Waggin",
+    "imageurl": "https://s.wsj.net/public/resources/images/BN-UZ662_0907MC_M_20170907154407.jpg"
+  }
+]
